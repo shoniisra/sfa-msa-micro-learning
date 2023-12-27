@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: spf-msa-micro-learning
+  header:
+    channel: digital
+    medium: web  
+
+ 
+
+
+
+ 
+
+
+
+
+ 
